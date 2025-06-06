@@ -166,16 +166,6 @@ hash = "c546dfa35645bd7deafa3d186b58c87337a098b7fcde9fbfb2f24019180af508"
 metafile = true
 
 [[files]]
-file = "mods/viabackwards.pw.toml"
-hash = "449282a7ef932ad896bbaa450162d953e673d37efa9c0f738636ce94cb408ba5"
-metafile = true
-
-[[files]]
-file = "mods/viaversion.pw.toml"
-hash = "745e8b796531f17dd5973a2ea5a74360449e865a8576f47c5ee99947400f7996"
-metafile = true
-
-[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "c0600c451a1107fd25141cc588f0f7f28f56a946897667b022fb3c8de24d74cf"
 metafile = true
