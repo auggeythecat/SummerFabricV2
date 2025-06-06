@@ -210,7 +210,3 @@ file = "mods/yacl.pw.toml"
 hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
 metafile = true
 
-[[files]]
-file = "resourcepacks/fastloadlocalisation.pw.toml"
-hash = "a8d2e0d2e5771993db390027127283bf6a57f3466d00047349bc3fabf0117375"
-metafile = true
