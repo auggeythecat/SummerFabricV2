@@ -1,0 +1,13 @@
+name = "AntiXray"
+filename = "antixray-fabric-1.4.10+1.21.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/C9S9COlG/antixray-fabric-1.4.10%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "bc537541c77dfcadb92f305d4163ff4a1c32ce306a9c014ebacf252f367676a8d7b4faf09e4cbdaedff3c03b871a581ad9f41160bdb14e952f77207576111350"
+
+[update]
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "C9S9COlG"
