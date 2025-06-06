@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "e35922347b69639a85b41f108315065d11bb04a60351f053a5a1ea4b92e6e423"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "4a140f7c4b5bff925f68f473654cabe13b599173b817578eaece82ecbebeab38"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "06f0e71e7217250922a6579f089490a4418f76ac0ef1b20593e2fdbaa7c8c139"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "81ee90c41a92e68384f96e8fa4ab01dbf74dc09be1fc78f6cebf013e362a5123"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "bd31c2f58a8318819b0dbd35681015c90e2e8b2ff2552de7e0db90fec2857322"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d0652639d4b9913a066768cbab92dd09330df5c6558a53a043baf7c541ca4a94"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "51703eb45a678c966323404530083da5c39b8d0b90c3f88907cb78ad3a934135"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "d85ebee3dd81e09a850b814c294d0686ce4030b4ec0c319b1445981c98dbd376"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "5740f9047e34375f77e59a94b5a171aa74a6f38bc4a1d4ac6583d922922a6d68"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "4e4f1161a4029f3863634ca739651b0b289db8dfce58eba0081d451ebeab427a"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
+metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "6a8fefe7a1fd47916dd41a1ead9244de0da293e3397f7a8cecb0a404aa24c4ca"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "aa4feea88ef3f783c5c3481b80d1f8a2ff3c4155dba7f4dc0f9755fc12d1f732"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "7ea149a862ac2c1a1702effdb41392eeb8e67655f60f3bec768e5bf3bfac08b4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-hang-fix.pw.toml"
+hash = "bd2c42e601ef8d0c42b01105526ba10dde552c649c0a47f0102eb6434ef29da8"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "a052e9e4152a7070185d4ff6205839099ce011998b3c60c313fd814ff6d18177"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true

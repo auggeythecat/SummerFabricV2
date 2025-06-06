@@ -1,0 +1,13 @@
+name = "Geyser"
+filename = "geyser-fabric-Geyser-Fabric-2.7.1-b844.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/mhq1S22y/geyser-fabric-Geyser-Fabric-2.7.1-b844.jar"
+hash-format = "sha512"
+hash = "5ecf53af3085b3f833317841bd0f37f7dc16a3f2de727fa8fd3a3c7711964fe166c01b1eafbd5d8399bd853717cb624dbbea80f77a3c990d7202d97b30ee33fd"
+
+[update]
+[update.modrinth]
+mod-id = "wKkoqHrH"
+version = "mhq1S22y"
