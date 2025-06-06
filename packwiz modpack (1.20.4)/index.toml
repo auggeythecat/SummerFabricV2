@@ -146,11 +146,6 @@ hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
 metafile = true
 
 [[files]]
-file = "mods/statement.pw.toml"
-hash = "9c15b2c0946e7b207d26d99f1713814b36750ad0f368e1f80b17a38966f428b4"
-metafile = true
-
-[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "1f001b9b981605ad71192fa5f408157f84350d6e308d914cc4b346c97e081970"
 metafile = true
@@ -208,4 +203,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "cae486a349f1c7a3e5fd786b6fb5168cc5a58213925df1934746e82707680626"
 metafile = true
