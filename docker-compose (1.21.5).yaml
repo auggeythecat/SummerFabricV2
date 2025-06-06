@@ -1,0 +1,18 @@
+services:
+  mc:
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC"
+      VERSION: "1.21.5"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/auggeythecat/SummerFabricV2/refs/heads/main/packwiz%20modpack/pack.toml"
+      MODS: |-
+        https://github.com/gnembon/carpet-extra/releases/download/1.4.169/carpet-extra-1.21.5-1.4.169.jar
+        https://github.com/gnembon/fabric-carpet/releases/download/1.4.169/fabric-carpet-1.21.5-1.4.169+v250325.jar
+      JVM_OPTS: "-Xmx8g"
+    volumes:
+      - "./data:/data"

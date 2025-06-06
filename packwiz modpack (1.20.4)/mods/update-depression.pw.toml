@@ -1,0 +1,13 @@
+name = "Update Depression"
+filename = "update-depression-1.1.1+mc1.20.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eJYeD60L/versions/G2dLB9kf/update-depression-1.1.1%2Bmc1.20.4.jar"
+hash-format = "sha512"
+hash = "c53185a9e1ddcdc882bbc3c0a50672a80087b260a4719cf19b44a54a666855934265970a086528c9038254df77227b084d9063236fc965d6ef0900e7c6c31e75"
+
+[update]
+[update.modrinth]
+mod-id = "eJYeD60L"
+version = "G2dLB9kf"

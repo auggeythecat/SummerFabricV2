@@ -1,4 +1,4 @@
-name = "try1"
+name = "1.20.4"
 author = "auggiethecat"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d3aaab5b3c4e57b6a9ff23c8571bb765ab62950afbd663198a57916dcb7287c8"
+hash = "d5bfcbfa1046594111cde67032d1285554449ddea640d399af22885800e09c73"
 
 [versions]
 fabric = "0.16.14"
-minecraft = "1.21.5"
+minecraft = "1.20.4"
