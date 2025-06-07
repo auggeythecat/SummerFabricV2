@@ -1,0 +1,13 @@
+name = "ViaRewind"
+filename = "ViaRewind-3.0.6-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TbHIxhx5/versions/PEDmIR0E/ViaRewind-3.0.6-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "29270fd71d3d15a0d06ef709b25864662759c7c0b568cf68abcd387f8a6529dd10bb36fe598bc53310dcb5bac0ef4037e84810de786c9e7e554919512a823693"
+
+[update]
+[update.modrinth]
+mod-id = "TbHIxhx5"
+version = "PEDmIR0E"

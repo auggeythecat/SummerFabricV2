@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "14c7d10215bf2caa563f0faf96667c6d4c40cb60984168ca7e27c12c7fd7c8c3"
+file = "mods/additional-structures.pw.toml"
+hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
@@ -16,11 +16,6 @@ hash = "24d77971f10e56ddf806383dbdcb486bda4be15cd128e6df3eb4d87907652fb5"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "12f62418cb482a1f068c083d83c55e02bf9fb730e8a778bba6e19b99920cb297"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "70b2a115b12368173e9ddc8d9eda97198dfa3fd39aef92fc4c94d104eaef0474"
 metafile = true
@@ -31,13 +26,13 @@ hash = "713e829147d71d036f1d81486e4e46c18fab232267334c23347abac2ec5ad042"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "ad24c0304030c7f5b2e377be557ccfc76151750e0ce28cec4747440a7f7d95d0"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+file = "mods/carpet.pw.toml"
+hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
 metafile = true
 
 [[files]]
@@ -51,18 +46,13 @@ hash = "ae10c25b006a7cf0fea838dd58ad89ad4e5deb4d86e3219d32ffcd0ef2c868b6"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5c4fa54c5e2ea504b3ad4e9f73ac9ab5cae86017fadecf86b877545d64b54523"
+file = "mods/explorify.pw.toml"
+hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -73,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "2b338e9d3f0f2706e4989bb611e408d3b56438df16875358a3080dd26061d5ca"
-metafile = true
-
-[[files]]
-file = "mods/geyser.pw.toml"
-hash = "c610af6457cb8df75f9bb3b2b9c162cc45c3ec32f3ad62102094913eaf058f8b"
 metafile = true
 
 [[files]]
@@ -101,8 +86,8 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "d6dee7f50e18a18f212f433e4449bb6f92eb03f1ac771532593819bbde1f0883"
 metafile = true
 
 [[files]]
@@ -146,13 +131,8 @@ hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
 metafile = true
 
 [[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "1f001b9b981605ad71192fa5f408157f84350d6e308d914cc4b346c97e081970"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "a8c644cd4c3e1c99774b0e3aeee59fe3351038f30e4d485ee6857a389a29f466"
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
@@ -166,13 +146,23 @@ hash = "c546dfa35645bd7deafa3d186b58c87337a098b7fcde9fbfb2f24019180af508"
 metafile = true
 
 [[files]]
-file = "mods/villages-and-pillages.pw.toml"
-hash = "c0600c451a1107fd25141cc588f0f7f28f56a946897667b022fb3c8de24d74cf"
+file = "mods/viafabric.pw.toml"
+hash = "d6b857d2c020eea18f40aa4406c6a35432ef7f6ff97a3033232c7dfc559fa4ac"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "0491c717b43274c2d5c5b05d7a87c262ea508f1e3f64190620118a738f742cf7"
+file = "mods/viarewind.pw.toml"
+hash = "024109a6a87e99c4aa11252fcad06f6c93ab792b31d29f8caa5b3a5058a1cfd9"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "745e8b796531f17dd5973a2ea5a74360449e865a8576f47c5ee99947400f7996"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "c0600c451a1107fd25141cc588f0f7f28f56a946897667b022fb3c8de24d74cf"
 metafile = true
 
 [[files]]
@@ -188,9 +178,4 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "cae486a349f1c7a3e5fd786b6fb5168cc5a58213925df1934746e82707680626"
 metafile = true
