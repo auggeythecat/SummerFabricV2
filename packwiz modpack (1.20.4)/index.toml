@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "d6b857d2c020eea18f40aa4406c6a35432ef7f6ff97a3033232c7dfc559fa4ac"
+hash = "e4830946a56153644afc124b1664eb45c5d6adb5929718ba5d2b518d2523157a"
 metafile = true
 
 [[files]]
@@ -178,4 +178,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "cae486a349f1c7a3e5fd786b6fb5168cc5a58213925df1934746e82707680626"
 metafile = true
