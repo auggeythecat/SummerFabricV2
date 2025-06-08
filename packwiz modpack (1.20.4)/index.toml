@@ -16,6 +16,11 @@ hash = "24d77971f10e56ddf806383dbdcb486bda4be15cd128e6df3eb4d87907652fb5"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "b98eb37aef91f0e3e488cddd3b0156f8a4006b4d0131ecece85f632facbdc18e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "70b2a115b12368173e9ddc8d9eda97198dfa3fd39aef92fc4c94d104eaef0474"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
